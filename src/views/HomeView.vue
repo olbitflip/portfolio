@@ -1,9 +1,7 @@
 <script setup lang="ts">
-
+import CardBase from '../components/CardBase.vue'
 </script>
 
 <template>
-    <main class="h-12 w-12 border">
-        
-    </main>
+    <CardBase />
 </template>

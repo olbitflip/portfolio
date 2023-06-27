@@ -9,8 +9,9 @@ import { RouterLink, RouterView } from 'vue-router'
       <RouterLink to="/">Home</RouterLink>
     </nav>
   </header>
-
-  <RouterView />
+  <div class="flex bg-slate-100 justify-center items-center h-screen w-full">
+    <RouterView />
+  </div>
 </template>
 
 <style>
