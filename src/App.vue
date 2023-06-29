@@ -4,9 +4,7 @@ import { RouterLink, RouterView } from 'vue-router'
 </script>
 
 <template>
-  <div class="block h-screen w-full">
-      <RouterView />
-  </div>
+    <RouterView />
 </template>
 
 <style>

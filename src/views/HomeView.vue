@@ -4,8 +4,7 @@ import Header from '../components/Header.vue'
 </script>
 
 <template>
-    <Header />
-    <div class="h-4/5 w-full h-screen flex justify-center items-center bg-slate-100">
+    <div class="h-screen w-full flex justify-center items-center bg-slate-100">
         <CardBase />
     </div>
 </template>
